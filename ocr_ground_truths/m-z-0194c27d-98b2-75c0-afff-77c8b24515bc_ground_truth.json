@@ -1,0 +1,722 @@
+[
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 0.0,
+    "end": 1.001,
+    "frame_time": 0.0,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very line",
+    "processing_time": 3.894075870513916
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 1.001,
+    "end": 2.002,
+    "frame_time": 1.001,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very",
+    "processing_time": 4.27556300163269
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 2.002,
+    "end": 3.003,
+    "frame_time": 2.002,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very",
+    "processing_time": 4.251618146896362
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 3.003,
+    "end": 4.004,
+    "frame_time": 3.003,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty ",
+    "processing_time": 4.5996809005737305
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 4.004,
+    "end": 5.005,
+    "frame_time": 4.004,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty  unpr",
+    "processing_time": 5.269481897354126
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 5.005,
+    "end": 6.006,
+    "frame_time": 5.005,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline a very erratic baseline thats pretty unpredictable.",
+    "processing_time": 4.440361976623535
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 6.006,
+    "end": 7.007,
+    "frame_time": 6.006,
+    "ocr_text": "",
+    "processing_time": 3.977989912033081
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 7.007,
+    "end": 8.008,
+    "frame_time": 7.007,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline.",
+    "processing_time": 4.328932046890259
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 8.008,
+    "end": 9.009,
+    "frame_time": 8.008,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline.",
+    "processing_time": 4.642300128936768
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 9.009,
+    "end": 10.01,
+    "frame_time": 9.009,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline.",
+    "processing_time": 5.244746923446655
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 10.01,
+    "end": 11.011,
+    "frame_time": 10.01,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight base",
+    "processing_time": 4.83034086227417
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 11.011,
+    "end": 12.012,
+    "frame_time": 11.011,
+    "ocr_text": "a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight",
+    "processing_time": 4.381717205047607
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 12.012,
+    "end": 13.013,
+    "frame_time": 12.012,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very cursive baseline thats pretty unpredictable.",
+    "processing_time": 4.236470937728882
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 13.013,
+    "end": 14.014,
+    "frame_time": 13.013,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very curatic baseline thats pretty unpredictable.",
+    "processing_time": 4.498392105102539
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 14.014,
+    "end": 15.015,
+    "frame_time": 14.014,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very curatic baseline",
+    "processing_time": 4.483733892440796
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 15.015,
+    "end": 16.016,
+    "frame_time": 15.015,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very curatic baseline",
+    "processing_time": 4.279819011688232
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 16.016,
+    "end": 17.017,
+    "frame_time": 16.016,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very curatic baseline",
+    "processing_time": 3.7781081199645996
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 17.017,
+    "end": 18.018,
+    "frame_time": 17.017,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very curatic baseline",
+    "processing_time": 4.362289905548096
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 18.018,
+    "end": 19.019,
+    "frame_time": 18.018,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very curatic baseline",
+    "processing_time": 4.129163980484009
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 19.019,
+    "end": 20.02,
+    "frame_time": 19.019,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very curatic baseline",
+    "processing_time": 3.935462713241577
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 20.02,
+    "end": 21.021,
+    "frame_time": 20.02,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline.",
+    "processing_time": 4.395735740661621
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 21.021,
+    "end": 22.022,
+    "frame_time": 21.021,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline",
+    "processing_time": 4.06649923324585
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 22.022,
+    "end": 23.023,
+    "frame_time": 22.022,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline",
+    "processing_time": 3.5317370891571045
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 23.023,
+    "end": 24.024,
+    "frame_time": 23.023,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline",
+    "processing_time": 3.6390819549560547
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 24.024,
+    "end": 25.025,
+    "frame_time": 24.024,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline a very curatic baseline",
+    "processing_time": 3.6236701011657715
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 25.025,
+    "end": 26.026,
+    "frame_time": 25.025,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline",
+    "processing_time": 3.7925219535827637
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 26.026,
+    "end": 27.027,
+    "frame_time": 26.026,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baselin thats pretty unpredictable.",
+    "processing_time": 3.943112850189209
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 27.027,
+    "end": 28.028,
+    "frame_time": 27.027,
+    "ocr_text": "a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.005148887634277
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 28.028,
+    "end": 29.029,
+    "frame_time": 28.028,
+    "ocr_text": "a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.684843063354492
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 29.029,
+    "end": 30.03,
+    "frame_time": 29.029,
+    "ocr_text": "a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.358788013458252
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 30.03,
+    "end": 31.031,
+    "frame_time": 30.03,
+    "ocr_text": "baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight",
+    "processing_time": 5.270487070083618
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 31.031,
+    "end": 32.032,
+    "frame_time": 31.031,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very curatiC baselthe thats pretty unpredictable.",
+    "processing_time": 4.044436931610107
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 32.032,
+    "end": 33.033,
+    "frame_time": 32.032,
+    "ocr_text": "baseline. a very erratic baseline thats pretty unpredictable.",
+    "processing_time": 4.429635763168335
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 33.033,
+    "end": 34.034,
+    "frame_time": 33.033,
+    "ocr_text": "baseline. a very erratic baseline thats pretty unpredictable.",
+    "processing_time": 3.6812188625335693
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 34.034,
+    "end": 35.035,
+    "frame_time": 34.034,
+    "ocr_text": "baseline. a very erratic baseline thats pretty unpredictable.",
+    "processing_time": 4.114468812942505
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 35.035,
+    "end": 36.036,
+    "frame_time": 35.035,
+    "ocr_text": "a very erratic baseline thats pretty unpredictable.",
+    "processing_time": 4.879086971282959
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 36.036,
+    "end": 37.037,
+    "frame_time": 36.036,
+    "ocr_text": "a very curatic baseline thats pretty unpredictable. the extremely straight ba",
+    "processing_time": 3.8395228385925293
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 37.037,
+    "end": 38.038,
+    "frame_time": 37.037,
+    "ocr_text": "a very curatiC sel e thats pr unpr tap the extreme raigh",
+    "processing_time": 4.027467966079712
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 38.038,
+    "end": 39.039,
+    "frame_time": 38.038,
+    "ocr_text": "a fairly straight baseline a slightly wavy baseline very erratic baseline thats pretty unpredictable. the extremely straight",
+    "processing_time": 4.56874418258667
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 39.039,
+    "end": 40.04,
+    "frame_time": 39.039,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very curvatic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 6.875339984893799
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 40.04,
+    "end": 41.041,
+    "frame_time": 40.04,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very curvatic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 5.182394027709961
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 41.041,
+    "end": 42.042,
+    "frame_time": 41.041,
+    "ocr_text": "a fairly straight baseline. slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely traight baseline.",
+    "processing_time": 5.59541916847229
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 42.042,
+    "end": 43.043,
+    "frame_time": 42.042,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 5.184037923812866
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 43.043,
+    "end": 44.044,
+    "frame_time": 43.043,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.769690990447998
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 44.044,
+    "end": 45.045,
+    "frame_time": 44.044,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 3.974545955657959
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 45.045,
+    "end": 46.046,
+    "frame_time": 45.045,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.819443941116333
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 46.046,
+    "end": 47.047,
+    "frame_time": 46.046,
+    "ocr_text": "A family straight headline a slightly wavy baseline a very gentle wobble not quite straight line the extremely straight line",
+    "processing_time": 4.3491740226745605
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 47.047,
+    "end": 48.048,
+    "frame_time": 47.047,
+    "ocr_text": "a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.006033897399902
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 48.048,
+    "end": 49.049,
+    "frame_time": 48.048,
+    "ocr_text": "a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.049684286117554
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 49.049,
+    "end": 50.05,
+    "frame_time": 49.049,
+    "ocr_text": "a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.574634075164795
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 50.05,
+    "end": 51.051,
+    "frame_time": 50.05,
+    "ocr_text": "a fairly straight baseline a slightly wavy baseline very curatic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.51610803604126
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 51.051,
+    "end": 52.052,
+    "frame_time": 51.051,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable some extremely straight",
+    "processing_time": 7.507995843887329
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 52.052,
+    "end": 53.053,
+    "frame_time": 52.052,
+    "ocr_text": "a fairly straight baseline a slightly wavy baseline a very erratic baseline it's pretty unpredictable the extremely straight baseline",
+    "processing_time": 5.039495944976807
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 53.053,
+    "end": 54.054,
+    "frame_time": 53.053,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline gets pretty unpredictable. the extremely straight base",
+    "processing_time": 5.2176971435546875
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 54.054,
+    "end": 55.055,
+    "frame_time": 54.054,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline at's pretty unpredictable he  extremely straight baseli",
+    "processing_time": 5.351077318191528
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 55.055,
+    "end": 56.056,
+    "frame_time": 55.055,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline ats pretty unpredictable. the extremely straight basel",
+    "processing_time": 5.752801179885864
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 56.056,
+    "end": 57.057,
+    "frame_time": 56.056,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline hat's pretty unpredictabl the extremely straight b",
+    "processing_time": 4.594048976898193
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 57.057,
+    "end": 58.058,
+    "frame_time": 57.057,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 5.500970125198364
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 58.058,
+    "end": 59.059,
+    "frame_time": 58.058,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very ratic baseline pretty unpredictable the extremely straight ba",
+    "processing_time": 5.202447891235352
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 59.059,
+    "end": 60.06,
+    "frame_time": 59.059,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 5.485308885574341
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 60.06,
+    "end": 61.061,
+    "frame_time": 60.06,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 5.035974979400635
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 61.061,
+    "end": 62.062,
+    "frame_time": 61.061,
+    "ocr_text": "a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.086093902587891
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 62.062,
+    "end": 63.063,
+    "frame_time": 62.062,
+    "ocr_text": "a very curatic baseline that pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.407145977020264
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 63.063,
+    "end": 64.064,
+    "frame_time": 63.063,
+    "ocr_text": "wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.404891014099121
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 64.064,
+    "end": 65.065,
+    "frame_time": 64.064,
+    "ocr_text": "wavy baseline.a very erratic baseline thats pretty unpredictable. ne extremely straight baseline",
+    "processing_time": 4.3032310009002686
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 65.065,
+    "end": 66.066,
+    "frame_time": 65.065,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.752084016799927
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 66.066,
+    "end": 67.067,
+    "frame_time": 66.066,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 5.356652021408081
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 67.067,
+    "end": 68.068,
+    "frame_time": 67.067,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable the extremely straight baseline",
+    "processing_time": 5.100466012954712
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 68.068,
+    "end": 69.069,
+    "frame_time": 68.068,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable the extremely straight baseline",
+    "processing_time": 4.938126087188721
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 69.069,
+    "end": 70.07,
+    "frame_time": 69.069,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. very erratic baseline thats pretty unpredictab. the extremely straight baseline",
+    "processing_time": 4.870909929275513
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 70.07,
+    "end": 71.071,
+    "frame_time": 70.07,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable the extremely straight baseline",
+    "processing_time": 4.882388114929199
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 71.071,
+    "end": 72.072,
+    "frame_time": 71.071,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable the extremely straight baseline",
+    "processing_time": 5.498044013977051
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 72.072,
+    "end": 73.073,
+    "frame_time": 72.072,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline.",
+    "processing_time": 4.68133807182312
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 73.073,
+    "end": 74.074,
+    "frame_time": 73.073,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 5.121841907501221
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 74.074,
+    "end": 75.075,
+    "frame_time": 74.074,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.802023887634277
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 75.075,
+    "end": 76.076,
+    "frame_time": 75.075,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline hats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.829416275024414
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 76.076,
+    "end": 77.077,
+    "frame_time": 76.076,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline hats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 5.79299521446228
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 77.077,
+    "end": 78.078,
+    "frame_time": 77.077,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. very erratic baseline pretty unpredictable remely straight line",
+    "processing_time": 5.458583116531372
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 78.078,
+    "end": 79.079,
+    "frame_time": 78.078,
+    "ocr_text": "thats pretty  the extremely straig",
+    "processing_time": 3.4117770195007324
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 79.079,
+    "end": 80.08,
+    "frame_time": 79.079,
+    "ocr_text": "pretty unpredictable the extremely straight baseline",
+    "processing_time": 3.6121668815612793
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 80.08,
+    "end": 81.081,
+    "frame_time": 80.08,
+    "ocr_text": "pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.040153980255127
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 81.081,
+    "end": 82.082,
+    "frame_time": 81.081,
+    "ocr_text": "unpredictable xtremely straight",
+    "processing_time": 2.9289228916168213
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 82.082,
+    "end": 83.083,
+    "frame_time": 82.082,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.342349052429199
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 83.083,
+    "end": 84.084,
+    "frame_time": 83.083,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.667505979537964
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 84.084,
+    "end": 85.085,
+    "frame_time": 84.084,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.707036972045898
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 85.085,
+    "end": 86.086,
+    "frame_time": 85.085,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.547566175460815
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 86.086,
+    "end": 87.087,
+    "frame_time": 86.086,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.567991018295288
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 87.087,
+    "end": 88.088,
+    "frame_time": 87.087,
+    "ocr_text": "a fairly straight baseline. a slightly wavy baseline. a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 5.673398017883301
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 88.088,
+    "end": 89.089,
+    "frame_time": 88.088,
+    "ocr_text": "a very erratic baseline thats pretty unpredictable. the extremely straight baseline",
+    "processing_time": 4.259338855743408
+  },
+  {
+    "video_id": "m-z-0194c27d-98b2-75c0-afff-77c8b24515bc",
+    "start": 89.089,
+    "end": 89.156,
+    "frame_time": 89.089,
+    "ocr_text": "\"\"",
+    "processing_time": 1.3776218891143799
+  }
+]

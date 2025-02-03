@@ -1,0 +1,666 @@
+[
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 0.0,
+    "end": 1.001,
+    "frame_time": 0.0,
+    "ocr_text": "lim x→4 (1/√x - 1/2) 2√x / (x - 4) 2√x lim x→4 (2 - √x) (2 + √x) 2√x (x - 4) (2 + √x) lim x→4 4 + 2√x - 2/√x - x 2√x (x - 4) (2 + √x) = lim x→4  4 - x / \" \" \" \" ",
+    "processing_time": 9.539493083953857
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 1.001,
+    "end": 2.002,
+    "frame_time": 1.001,
+    "ocr_text": "lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.865312099456787
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 2.002,
+    "end": 3.003,
+    "frame_time": 2.002,
+    "ocr_text": "lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.535987854003906
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 3.003,
+    "end": 4.004,
+    "frame_time": 3.003,
+    "ocr_text": "lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.929721117019653
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 4.004,
+    "end": 5.005,
+    "frame_time": 4.004,
+    "ocr_text": "lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 3.9408669471740723
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 5.005,
+    "end": 6.006,
+    "frame_time": 5.005,
+    "ocr_text": "lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.7215611934661865
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 6.006,
+    "end": 7.007,
+    "frame_time": 6.006,
+    "ocr_text": "li lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.99450421333313
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 7.007,
+    "end": 8.008,
+    "frame_time": 7.007,
+    "ocr_text": "lim lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.617830276489258
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 8.008,
+    "end": 9.009,
+    "frame_time": 8.008,
+    "ocr_text": "lim x→ lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.742839813232422
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 9.009,
+    "end": 10.01,
+    "frame_time": 9.009,
+    "ocr_text": "lim x→4 lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.766816139221191
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 10.01,
+    "end": 11.011,
+    "frame_time": 10.01,
+    "ocr_text": "lim x→4 - lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.11182165145874
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 11.011,
+    "end": 12.012,
+    "frame_time": 11.011,
+    "ocr_text": "lim x→4 -1( lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.530392169952393
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 12.012,
+    "end": 13.013,
+    "frame_time": 12.012,
+    "ocr_text": "lim x→4 -1( lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.814295053482056
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 13.013,
+    "end": 14.014,
+    "frame_time": 13.013,
+    "ocr_text": "lim x→4 -1( lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.063557863235474
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 14.014,
+    "end": 15.015,
+    "frame_time": 14.014,
+    "ocr_text": "lim x→4 -1( lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.054992198944092
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 15.015,
+    "end": 16.016,
+    "frame_time": 15.015,
+    "ocr_text": "lim x→4 -1(x lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.684683084487915
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 16.016,
+    "end": 17.017,
+    "frame_time": 16.016,
+    "ocr_text": "lim x→4 -1(x -4 lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.1201488971710205
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 17.017,
+    "end": 18.018,
+    "frame_time": 17.017,
+    "ocr_text": "lim x→4 -1(x -4) lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.851395845413208
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 18.018,
+    "end": 19.019,
+    "frame_time": 18.018,
+    "ocr_text": "lim x→4 -1(x -4) / lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.350795030593872
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 19.019,
+    "end": 20.02,
+    "frame_time": 19.019,
+    "ocr_text": "lim x→4 -1(x -4) / 2√ lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.134084701538086
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 20.02,
+    "end": 21.021,
+    "frame_time": 20.02,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.732064962387085
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 21.021,
+    "end": 22.022,
+    "frame_time": 21.021,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x( lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.530658960342407
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 22.022,
+    "end": 23.023,
+    "frame_time": 22.022,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4 lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 7.171764373779297
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 23.023,
+    "end": 24.024,
+    "frame_time": 23.023,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4) lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.817203760147095
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 24.024,
+    "end": 25.025,
+    "frame_time": 24.024,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)( lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.780395030975342
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 25.025,
+    "end": 26.026,
+    "frame_time": 25.025,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2 lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.490896940231323
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 26.026,
+    "end": 27.027,
+    "frame_time": 26.026,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√ lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 10.711046934127808
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 27.027,
+    "end": 28.028,
+    "frame_time": 27.027,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 7.995152235031128
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 28.028,
+    "end": 29.029,
+    "frame_time": 28.028,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.062230110168457
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 29.029,
+    "end": 30.03,
+    "frame_time": 29.029,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 4.849354028701782
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 30.03,
+    "end": 31.031,
+    "frame_time": 30.03,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) lim x->4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 8.472908973693848
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 31.031,
+    "end": 32.032,
+    "frame_time": 31.031,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.003099203109741
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 32.032,
+    "end": 33.033,
+    "frame_time": 32.032,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.85130500793457
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 33.033,
+    "end": 34.034,
+    "frame_time": 33.033,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 7.889966011047363
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 34.034,
+    "end": 35.035,
+    "frame_time": 34.034,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.346948862075806
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 35.035,
+    "end": 36.036,
+    "frame_time": 35.035,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = li lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 7.245258808135986
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 36.036,
+    "end": 37.037,
+    "frame_time": 36.036,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.607547998428345
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 37.037,
+    "end": 38.038,
+    "frame_time": 37.037,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→ lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.3982789516448975
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 38.038,
+    "end": 39.039,
+    "frame_time": 38.038,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.654715061187744
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 39.039,
+    "end": 40.04,
+    "frame_time": 39.039,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.008675813674927
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 40.04,
+    "end": 41.041,
+    "frame_time": 40.04,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2 lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.9074249267578125
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 41.041,
+    "end": 42.042,
+    "frame_time": 41.041,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 7.743134021759033
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 42.042,
+    "end": 43.043,
+    "frame_time": 42.042,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2 lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.6209187507629395
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 43.043,
+    "end": 44.044,
+    "frame_time": 43.043,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+ lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.882036924362183
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 44.044,
+    "end": 45.045,
+    "frame_time": 44.044,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+ lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.328429937362671
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 45.045,
+    "end": 46.046,
+    "frame_time": 45.045,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.277281045913696
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 46.046,
+    "end": 47.047,
+    "frame_time": 46.046,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.926397085189819
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 47.047,
+    "end": 48.048,
+    "frame_time": 47.047,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.352470874786377
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 48.048,
+    "end": 49.049,
+    "frame_time": 48.048,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.613046169281006
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 49.049,
+    "end": 50.05,
+    "frame_time": 49.049,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 7.567256212234497
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 50.05,
+    "end": 51.051,
+    "frame_time": 50.05,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.25229287147522
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 51.051,
+    "end": 52.052,
+    "frame_time": 51.051,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.590161085128784
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 52.052,
+    "end": 53.053,
+    "frame_time": 52.052,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2 lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.976046085357666
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 53.053,
+    "end": 54.054,
+    "frame_time": 53.053,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√ lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.485913276672363
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 54.054,
+    "end": 55.055,
+    "frame_time": 54.054,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4( lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.955245018005371
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 55.055,
+    "end": 56.056,
+    "frame_time": 55.055,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2 lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 8.577618837356567
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 56.056,
+    "end": 57.057,
+    "frame_time": 56.056,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+ lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.656595945358276
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 57.057,
+    "end": 58.058,
+    "frame_time": 57.057,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4 lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 8.021117925643921
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 58.058,
+    "end": 59.059,
+    "frame_time": 58.058,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.907016754150391
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 59.059,
+    "end": 60.06,
+    "frame_time": 59.059,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 7.101768970489502
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 60.06,
+    "end": 61.061,
+    "frame_time": 60.06,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 7.646123170852661
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 61.061,
+    "end": 62.062,
+    "frame_time": 61.061,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2 lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.831792116165161
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 62.062,
+    "end": 63.063,
+    "frame_time": 62.062,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2 lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.350795745849609
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 63.063,
+    "end": 64.064,
+    "frame_time": 63.063,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)( lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.254701137542725
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 64.064,
+    "end": 65.065,
+    "frame_time": 64.064,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+ lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 7.070986032485962
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 65.065,
+    "end": 66.066,
+    "frame_time": 65.065,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.797655820846558
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 66.066,
+    "end": 67.067,
+    "frame_time": 66.066,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = -1 lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.902749061584473
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 67.067,
+    "end": 68.068,
+    "frame_time": 67.067,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = -1 /  lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.371255874633789
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 68.068,
+    "end": 69.069,
+    "frame_time": 68.068,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = -1 / 4(  lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 5.539003133773804
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 69.069,
+    "end": 70.07,
+    "frame_time": 69.069,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = -1 / 4(  lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 7.440411806106567
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 70.07,
+    "end": 71.071,
+    "frame_time": 70.07,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = -1 / 4(4)  lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.7558887004852295
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 71.071,
+    "end": 72.072,
+    "frame_time": 71.071,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = -1 / 4(4) = -  lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.919367074966431
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 72.072,
+    "end": 73.073,
+    "frame_time": 72.072,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = -1 / 4(4) = - 1 / 1  lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 7.010589122772217
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 73.073,
+    "end": 74.074,
+    "frame_time": 73.073,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = -1 / 4(4) = - 1 / 16  lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.999671936035156
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 74.074,
+    "end": 75.075,
+    "frame_time": 74.074,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = -1 / 4(4) = - 1 / 16  lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 7.307125806808472
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 75.075,
+    "end": 76.076,
+    "frame_time": 75.075,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = -1 / 4(4) = - 1 / 16  lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.580173015594482
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 76.076,
+    "end": 77.077,
+    "frame_time": 76.076,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = -1 / 4(4) = - 1 / 16  lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.007066011428833
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 77.077,
+    "end": 78.078,
+    "frame_time": 77.077,
+    "ocr_text": "lim x→4 -1(x -4) / 2√x(x-4)(2+√x) = lim x→4 -1 / 2√x(2+√x) = -1 / 2√4(2+√4) = -1 / 2(2)(2+2) = -1 / 4(4) = - 1 / 16  lim x→4 4+2√x-2√x-x / 2√x(x-4)(2+√x) = lim x→4 (4-x) / \" \" \" \" ",
+    "processing_time": 6.164347171783447
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 78.078,
+    "end": 79.079,
+    "frame_time": 78.078,
+    "ocr_text": "\"\"",
+    "processing_time": 2.139775037765503
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 79.079,
+    "end": 80.08,
+    "frame_time": 79.079,
+    "ocr_text": "\"\"",
+    "processing_time": 1.5614383220672607
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 80.08,
+    "end": 81.081,
+    "frame_time": 80.08,
+    "ocr_text": "\"\"",
+    "processing_time": 1.4016849994659424
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 81.081,
+    "end": 82.082,
+    "frame_time": 81.081,
+    "ocr_text": "\"\"",
+    "processing_time": 1.984917163848877
+  },
+  {
+    "video_id": "m-z-0194c280-0778-7b52-8268-c6f1d00dbd52",
+    "start": 82.082,
+    "end": 82.316,
+    "frame_time": 82.082,
+    "ocr_text": "\"\"",
+    "processing_time": 1.5191650390625
+  }
+]

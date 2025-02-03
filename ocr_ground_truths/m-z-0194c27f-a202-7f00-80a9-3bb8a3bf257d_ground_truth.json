@@ -1,0 +1,578 @@
+[
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 0.0,
+    "end": 1.0,
+    "frame_time": 0.0,
+    "ocr_text": "",
+    "processing_time": 2.3055338859558105
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 1.0,
+    "end": 2.0,
+    "frame_time": 1.0,
+    "ocr_text": "",
+    "processing_time": 3.0374457836151123
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 2.0,
+    "end": 3.0,
+    "frame_time": 2.0,
+    "ocr_text": "",
+    "processing_time": 3.0335371494293213
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 3.0,
+    "end": 4.0,
+    "frame_time": 3.0,
+    "ocr_text": "JS",
+    "processing_time": 3.360995054244995
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 4.0,
+    "end": 5.0,
+    "frame_time": 4.0,
+    "ocr_text": "JS",
+    "processing_time": 3.0400338172912598
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 5.0,
+    "end": 6.0,
+    "frame_time": 5.0,
+    "ocr_text": "JS",
+    "processing_time": 3.700301170349121
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 6.0,
+    "end": 7.0,
+    "frame_time": 6.0,
+    "ocr_text": "JS",
+    "processing_time": 3.2063941955566406
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 7.0,
+    "end": 8.0,
+    "frame_time": 7.0,
+    "ocr_text": "JS",
+    "processing_time": 3.3725388050079346
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 8.0,
+    "end": 9.0,
+    "frame_time": 8.0,
+    "ocr_text": "JS",
+    "processing_time": 2.9576590061187744
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 9.0,
+    "end": 10.0,
+    "frame_time": 9.0,
+    "ocr_text": "Supported by moz://a DBS Microsoft Adobe I/O Standard Chartered WANTEDLY Temasys UIlicious PouchNATION PALOIT nearForm",
+    "processing_time": 4.012125015258789
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 10.0,
+    "end": 11.0,
+    "frame_time": 10.0,
+    "ocr_text": "Supported by moz://a DBS Microsoft Adobe I/O Standard Chartered WANTEDLY Temasys UIlicious PouchNATION PALOIT nearForm",
+    "processing_time": 3.9553070068359375
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 11.0,
+    "end": 12.0,
+    "frame_time": 11.0,
+    "ocr_text": "Supported by moz://a DBS Microsoft Adobe I/O Standard Chartered WANTEDLY Temasys UIlicious PouchNATION PALOIT nearForm",
+    "processing_time": 4.6171958446502686
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 12.0,
+    "end": 13.0,
+    "frame_time": 12.0,
+    "ocr_text": "CSS PRANKS Tim Holman Lightning Talk",
+    "processing_time": 4.886017084121704
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 13.0,
+    "end": 14.0,
+    "frame_time": 13.0,
+    "ocr_text": "CSS PRANKS Tim Holman Lightning Talk",
+    "processing_time": 2.817211866378784
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 14.0,
+    "end": 15.0,
+    "frame_time": 14.0,
+    "ocr_text": "CSS PRANKS Tim Holman Lightning Talk",
+    "processing_time": 3.6505727767944336
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 15.0,
+    "end": 16.0,
+    "frame_time": 15.0,
+    "ocr_text": "CSS PRANKS Tim Holman Lightning Talk",
+    "processing_time": 3.6135318279266357
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 16.0,
+    "end": 17.0,
+    "frame_time": 16.0,
+    "ocr_text": "3:12 PM LIGHTNING TALKS / BREAK COMING UP WHAT WRITING ABOUT",
+    "processing_time": 3.6339409351348877
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 17.0,
+    "end": 18.0,
+    "frame_time": 17.0,
+    "ocr_text": "3:12 PM LIGHTNING TALKS / BREAK COMING UP WHAT WRITING ABOUT Never trust Stickers",
+    "processing_time": 4.419081926345825
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 18.0,
+    "end": 19.0,
+    "frame_time": 18.0,
+    "ocr_text": "CSS PRANKS @TWOLMAN < >",
+    "processing_time": 3.396758794784546
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 19.0,
+    "end": 20.0,
+    "frame_time": 19.0,
+    "ocr_text": "CSS PRANKS @TWOLMAN < >",
+    "processing_time": 3.3108789920806885
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 20.0,
+    "end": 21.0,
+    "frame_time": 20.0,
+    "ocr_text": "CSS PRANKS @TWOLMAN < >",
+    "processing_time": 3.1757590770721436
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 21.0,
+    "end": 22.0,
+    "frame_time": 21.0,
+    "ocr_text": "HOW? < >",
+    "processing_time": 3.047300100326538
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 22.0,
+    "end": 23.0,
+    "frame_time": 22.0,
+    "ocr_text": "HOW? < >",
+    "processing_time": 4.036334037780762
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 23.0,
+    "end": 24.0,
+    "frame_time": 23.0,
+    "ocr_text": "HOW? < >",
+    "processing_time": 3.2231671810150146
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 24.0,
+    "end": 25.0,
+    "frame_time": 24.0,
+    "ocr_text": "HOW? < >",
+    "processing_time": 3.345705986022949
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 25.0,
+    "end": 26.0,
+    "frame_time": 25.0,
+    "ocr_text": "HOW? < >",
+    "processing_time": 4.36316990852356
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 26.0,
+    "end": 27.0,
+    "frame_time": 26.0,
+    "ocr_text": "W? CUS < >",
+    "processing_time": 3.074636936187744
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 27.0,
+    "end": 28.0,
+    "frame_time": 27.0,
+    "ocr_text": "CUSTOM.CSS",
+    "processing_time": 5.414243936538696
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 28.0,
+    "end": 29.0,
+    "frame_time": 28.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.398837089538574
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 29.0,
+    "end": 30.0,
+    "frame_time": 29.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.752987861633301
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 30.0,
+    "end": 31.0,
+    "frame_time": 30.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.7665159702301025
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 31.0,
+    "end": 32.0,
+    "frame_time": 31.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 4.360627174377441
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 32.0,
+    "end": 33.0,
+    "frame_time": 32.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.1229567527770996
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 33.0,
+    "end": 34.0,
+    "frame_time": 33.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.26340389251709
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 34.0,
+    "end": 35.0,
+    "frame_time": 34.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.008363962173462
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 35.0,
+    "end": 36.0,
+    "frame_time": 35.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.62296199798584
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 36.0,
+    "end": 37.0,
+    "frame_time": 36.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.2381200790405273
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 37.0,
+    "end": 38.0,
+    "frame_time": 37.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.307774066925049
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 38.0,
+    "end": 39.0,
+    "frame_time": 38.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.3040778636932373
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 39.0,
+    "end": 40.0,
+    "frame_time": 39.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 2.660999059677124
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 40.0,
+    "end": 41.0,
+    "frame_time": 40.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.8060991764068604
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 41.0,
+    "end": 42.0,
+    "frame_time": 41.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 3.1019482612609863
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 42.0,
+    "end": 43.0,
+    "frame_time": 42.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 9.380131006240845
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 43.0,
+    "end": 44.0,
+    "frame_time": 43.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 3.64538311958313
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 44.0,
+    "end": 45.0,
+    "frame_time": 44.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 3.354584217071533
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 45.0,
+    "end": 46.0,
+    "frame_time": 45.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 3.040688991546631
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 46.0,
+    "end": 47.0,
+    "frame_time": 46.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 2.9523730278015137
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 47.0,
+    "end": 48.0,
+    "frame_time": 47.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 3.1410470008850098
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 48.0,
+    "end": 49.0,
+    "frame_time": 48.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 3.4522478580474854
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 49.0,
+    "end": 50.0,
+    "frame_time": 49.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 2.9952380657196045
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 50.0,
+    "end": 51.0,
+    "frame_time": 50.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 6.633266925811768
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 51.0,
+    "end": 52.0,
+    "frame_time": 51.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 4.033803939819336
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 52.0,
+    "end": 53.0,
+    "frame_time": 52.0,
+    "ocr_text": "S CUSTOM.CSS < >",
+    "processing_time": 3.615457773208618
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 53.0,
+    "end": 54.0,
+    "frame_time": 53.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.513126850128174
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 54.0,
+    "end": 55.0,
+    "frame_time": 54.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.5004539489746094
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 55.0,
+    "end": 56.0,
+    "frame_time": 55.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.8789451122283936
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 56.0,
+    "end": 57.0,
+    "frame_time": 56.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 6.487298965454102
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 57.0,
+    "end": 58.0,
+    "frame_time": 57.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 3.0185248851776123
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 58.0,
+    "end": 59.0,
+    "frame_time": 58.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 7.761721849441528
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 59.0,
+    "end": 60.0,
+    "frame_time": 59.0,
+    "ocr_text": "CUSTOM.CSS < >",
+    "processing_time": 4.615950107574463
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 60.0,
+    "end": 61.0,
+    "frame_time": 60.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 7.142902135848999
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 61.0,
+    "end": 62.0,
+    "frame_time": 61.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 2.695789098739624
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 62.0,
+    "end": 63.0,
+    "frame_time": 62.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 4.371051073074341
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 63.0,
+    "end": 64.0,
+    "frame_time": 63.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 3.8693833351135254
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 64.0,
+    "end": 65.0,
+    "frame_time": 64.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 3.121495008468628
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 65.0,
+    "end": 66.0,
+    "frame_time": 65.0,
+    "ocr_text": "EXTENSION < >",
+    "processing_time": 3.0803589820861816
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 66.0,
+    "end": 67.0,
+    "frame_time": 66.0,
+    "ocr_text": "TENSION < >",
+    "processing_time": 3.374006748199463
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 67.0,
+    "end": 68.0,
+    "frame_time": 67.0,
+    "ocr_text": "html, body { filter: grayscale(100%); } < >",
+    "processing_time": 3.9414100646972656
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 68.0,
+    "end": 69.0,
+    "frame_time": 68.0,
+    "ocr_text": "html, body { filter: grayscale(100%); } < >",
+    "processing_time": 4.003334999084473
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 69.0,
+    "end": 70.0,
+    "frame_time": 69.0,
+    "ocr_text": "html, body { filter: grayscale(100%); } < >",
+    "processing_time": 3.7814650535583496
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 70.0,
+    "end": 71.0,
+    "frame_time": 70.0,
+    "ocr_text": "html, body { filter: grayscale(100%); } < >",
+    "processing_time": 3.617187738418579
+  },
+  {
+    "video_id": "m-z-0194c27f-a202-7f00-80a9-3bb8a3bf257d",
+    "start": 71.0,
+    "end": 71.24,
+    "frame_time": 71.0,
+    "ocr_text": "html, body { filter: grayscale(100%); } < >",
+    "processing_time": 3.390712022781372
+  }
+]

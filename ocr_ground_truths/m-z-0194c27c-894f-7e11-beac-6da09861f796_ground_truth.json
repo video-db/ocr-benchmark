@@ -1,0 +1,306 @@
+[
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 0.0,
+    "end": 1.0,
+    "frame_time": 0.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.449173927307129
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 1.0,
+    "end": 2.0,
+    "frame_time": 1.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.658984899520874
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 2.0,
+    "end": 3.0,
+    "frame_time": 2.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 4.202375173568726
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 3.0,
+    "end": 4.0,
+    "frame_time": 3.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.467458724975586
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 4.0,
+    "end": 5.0,
+    "frame_time": 4.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.930479049682617
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 5.0,
+    "end": 6.0,
+    "frame_time": 5.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.4136691093444824
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 6.0,
+    "end": 7.0,
+    "frame_time": 6.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.2741880416870117
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 7.0,
+    "end": 8.0,
+    "frame_time": 7.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.528473138809204
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 8.0,
+    "end": 9.0,
+    "frame_time": 8.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.6887009143829346
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 9.0,
+    "end": 10.0,
+    "frame_time": 9.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 4.026431083679199
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 10.0,
+    "end": 11.0,
+    "frame_time": 10.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 4.262777090072632
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 11.0,
+    "end": 12.0,
+    "frame_time": 11.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.5880379676818848
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 12.0,
+    "end": 13.0,
+    "frame_time": 12.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.7347347736358643
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 13.0,
+    "end": 14.0,
+    "frame_time": 13.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.54366397857666
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 14.0,
+    "end": 15.0,
+    "frame_time": 14.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.937290906906128
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 15.0,
+    "end": 16.0,
+    "frame_time": 15.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.678921937942505
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 16.0,
+    "end": 17.0,
+    "frame_time": 16.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.5157339572906494
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 17.0,
+    "end": 18.0,
+    "frame_time": 17.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.605199098587036
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 18.0,
+    "end": 19.0,
+    "frame_time": 18.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.6950762271881104
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 19.0,
+    "end": 20.0,
+    "frame_time": 19.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.5437748432159424
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 20.0,
+    "end": 21.0,
+    "frame_time": 20.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.8453750610351562
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 21.0,
+    "end": 22.0,
+    "frame_time": 21.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.957040786743164
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 22.0,
+    "end": 23.0,
+    "frame_time": 22.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.4467241764068604
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 23.0,
+    "end": 24.0,
+    "frame_time": 23.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.6177048683166504
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 24.0,
+    "end": 25.0,
+    "frame_time": 24.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.5377371311187744
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 25.0,
+    "end": 26.0,
+    "frame_time": 25.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 4.43829083442688
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 26.0,
+    "end": 27.0,
+    "frame_time": 26.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.3925042152404785
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 27.0,
+    "end": 28.0,
+    "frame_time": 27.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 4.090464115142822
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 28.0,
+    "end": 29.0,
+    "frame_time": 28.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 3.643028974533081
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 29.0,
+    "end": 30.0,
+    "frame_time": 29.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null );",
+    "processing_time": 4.0783679485321045
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 30.0,
+    "end": 31.0,
+    "frame_time": 30.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null ); Main Thread idle Commit isPending = true",
+    "processing_time": 3.728590965270996
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 31.0,
+    "end": 32.0,
+    "frame_time": 31.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( async (currentValue, formData) => { const name = formData.get(\"name\"); const data = await updateData(name); return data; }, null ); Main Thread idle Commit isPending = true isPending = false",
+    "processing_time": 4.288295030593872
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 32.0,
+    "end": 33.0,
+    "frame_time": 32.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( null , (currentValue, formData) => { let name = formData.get(\"name\"); data = await updateData(name); return data; }, null ); Main Thread idle Commit isPending = true isPending = false",
+    "processing_time": 4.08264684677124
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 33.0,
+    "end": 34.0,
+    "frame_time": 33.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( null , (currentValue, formData) => { let name = formData.get(\"name\"); data = await updateData(name); return data; }, null ); Main Thread idle Commit isPending = true isPending = false",
+    "processing_time": 4.527482986450195
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 34.0,
+    "end": 35.0,
+    "frame_time": 34.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( null , (currentValue, formData) => { let name = formData.get(\"name\"); data = await updateData(name); return data; }, null ); Main Thread idle Commit isPending = true isPending = false",
+    "processing_time": 4.9002580642700195
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 35.0,
+    "end": 36.0,
+    "frame_time": 35.0,
+    "ocr_text": "const [ state , action , isPending ] = useActionState( null , (currentValue, formData) => { let name = formData.get(\"name\"); data = await updateData(name); return data; }, null ); Main Thread idle Commit isPending = true isPending = false",
+    "processing_time": 4.777971982955933
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 36.0,
+    "end": 37.0,
+    "frame_time": 36.0,
+    "ocr_text": "\"\"",
+    "processing_time": 1.394684076309204
+  },
+  {
+    "video_id": "m-z-0194c27c-894f-7e11-beac-6da09861f796",
+    "start": 37.0,
+    "end": 37.3,
+    "frame_time": 37.0,
+    "ocr_text": "\"\"",
+    "processing_time": 1.1194331645965576
+  }
+]

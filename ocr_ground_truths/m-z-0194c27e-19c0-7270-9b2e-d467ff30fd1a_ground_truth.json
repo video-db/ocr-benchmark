@@ -1,0 +1,106 @@
+[
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 0.0,
+    "end": 1.001,
+    "frame_time": 0.0,
+    "ocr_text": "CNBC",
+    "processing_time": 3.394970178604126
+  },
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 1.001,
+    "end": 2.002,
+    "frame_time": 1.001,
+    "ocr_text": "CNBC",
+    "processing_time": 4.053830862045288
+  },
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 2.002,
+    "end": 3.003,
+    "frame_time": 2.002,
+    "ocr_text": "TRADER JOE'S Organic REDUCED FAT C CONU CNBC",
+    "processing_time": 3.948439121246338
+  },
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 3.003,
+    "end": 4.004,
+    "frame_time": 3.003,
+    "ocr_text": "TRADER JOE'S Organic REDUCED FAT C CONU CNBC",
+    "processing_time": 4.229787826538086
+  },
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 4.004,
+    "end": 5.005,
+    "frame_time": 4.004,
+    "ocr_text": "TRADER JOE'S Organic REDUCED FAT C CONU CNBC",
+    "processing_time": 3.571024179458618
+  },
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 5.005,
+    "end": 6.006,
+    "frame_time": 5.005,
+    "ocr_text": "TRADER JOE'S Organic REDUCED FAT C CONU CNBC",
+    "processing_time": 4.261058807373047
+  },
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 6.006,
+    "end": 7.007,
+    "frame_time": 6.006,
+    "ocr_text": "CNBC",
+    "processing_time": 3.445702314376831
+  },
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 7.007,
+    "end": 8.008,
+    "frame_time": 7.007,
+    "ocr_text": "made in CNBC",
+    "processing_time": 3.5181691646575928
+  },
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 8.008,
+    "end": 9.009,
+    "frame_time": 8.008,
+    "ocr_text": "made.in CNBC",
+    "processing_time": 4.35754919052124
+  },
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 9.009,
+    "end": 10.01,
+    "frame_time": 9.009,
+    "ocr_text": "BO CNBC",
+    "processing_time": 3.6337790489196777
+  },
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 10.01,
+    "end": 11.011,
+    "frame_time": 10.01,
+    "ocr_text": "\"\"",
+    "processing_time": 2.108292818069458
+  },
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 11.011,
+    "end": 12.012,
+    "frame_time": 11.011,
+    "ocr_text": "\"\"",
+    "processing_time": 1.2517640590667725
+  },
+  {
+    "video_id": "m-z-0194c27e-19c0-7270-9b2e-d467ff30fd1a",
+    "start": 12.012,
+    "end": 12.221,
+    "frame_time": 12.012,
+    "ocr_text": "\"\"",
+    "processing_time": 1.387408971786499
+  }
+]

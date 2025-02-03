@@ -1,0 +1,266 @@
+[
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 0.0,
+    "end": 1.0,
+    "frame_time": 0.0,
+    "ocr_text": "Name Lydia Update Name Lydia Changed name to Lydia Update Traditional Render Main Thread Network Render Commit POST /data {\"name\":\"Lydia\"} await updateData(\"Lydia\") setData(\"Lydia\")",
+    "processing_time": 3.984649896621704
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 1.0,
+    "end": 2.0,
+    "frame_time": 1.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.578071117401123
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 2.0,
+    "end": 3.0,
+    "frame_time": 2.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.905992031097412
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 3.0,
+    "end": 4.0,
+    "frame_time": 3.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.125286102294922
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 4.0,
+    "end": 5.0,
+    "frame_time": 4.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.854830980300903
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 5.0,
+    "end": 6.0,
+    "frame_time": 5.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.394900798797607
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 6.0,
+    "end": 7.0,
+    "frame_time": 6.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 6.543342113494873
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 7.0,
+    "end": 8.0,
+    "frame_time": 7.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.325126886367798
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 8.0,
+    "end": 9.0,
+    "frame_time": 8.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 4.875057220458984
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 9.0,
+    "end": 10.0,
+    "frame_time": 9.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 6.215821027755737
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 10.0,
+    "end": 11.0,
+    "frame_time": 10.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.8493568897247314
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 11.0,
+    "end": 12.0,
+    "frame_time": 11.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 6.568828821182251
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 12.0,
+    "end": 13.0,
+    "frame_time": 12.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.785920143127441
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 13.0,
+    "end": 14.0,
+    "frame_time": 13.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.769289970397949
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 14.0,
+    "end": 15.0,
+    "frame_time": 14.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 4.39738130569458
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 15.0,
+    "end": 16.0,
+    "frame_time": 15.0,
+    "ocr_text": "Lydia Evan Evan Changed name to Lydia Evan Changed name to Evan Traditional Render Main Thread Network POST /data {\"name\":\"Lydia\"} POST /data {\"name\":\"Evan\"} await updateData(\"Lydia\") await updateData(\"Evan\") setData(\"Lydia\") setData(\"Evan\") Render Commit Render Commit",
+    "processing_time": 6.006548881530762
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 16.0,
+    "end": 17.0,
+    "frame_time": 16.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.632710218429565
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 17.0,
+    "end": 18.0,
+    "frame_time": 17.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.384038925170898
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 18.0,
+    "end": 19.0,
+    "frame_time": 18.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 4.774467945098877
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 19.0,
+    "end": 20.0,
+    "frame_time": 19.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 4.774712800979614
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 20.0,
+    "end": 21.0,
+    "frame_time": 20.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 6.156980037689209
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 21.0,
+    "end": 22.0,
+    "frame_time": 21.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.921278953552246
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 22.0,
+    "end": 23.0,
+    "frame_time": 22.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 4.928853988647461
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 23.0,
+    "end": 24.0,
+    "frame_time": 23.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.208929061889648
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 24.0,
+    "end": 25.0,
+    "frame_time": 24.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.593040943145752
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 25.0,
+    "end": 26.0,
+    "frame_time": 25.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 4.836780071258545
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 26.0,
+    "end": 27.0,
+    "frame_time": 26.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.1000707149505615
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 27.0,
+    "end": 28.0,
+    "frame_time": 27.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 3.7490720748901367
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 28.0,
+    "end": 29.0,
+    "frame_time": 28.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.048626899719238
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 29.0,
+    "end": 30.0,
+    "frame_time": 29.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 6.17866587638855
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 30.0,
+    "end": 31.0,
+    "frame_time": 30.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.377636909484863
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 31.0,
+    "end": 32.0,
+    "frame_time": 31.0,
+    "ocr_text": "Name Lydia Update Name Evan Update Name Evan Changed name to Lydia Update Name Evan Changed name to Evan Update Traditional Render Main Thread Render Commit Render Commit Network 1 POST /data { \"name\": \"Lydia\"} 2 POST /data { \"name\": \"Evan\" } 1 await updateData(\"Lydia\") 2 await updateData(\"Evan\") 1 setData(\"Lydia\") 2 setData(\"Evan\")",
+    "processing_time": 5.211777925491333
+  },
+  {
+    "video_id": "m-z-0194c27d-b22a-7982-a796-e332a82d5596",
+    "start": 32.0,
+    "end": 32.1,
+    "frame_time": 32.0,
+    "ocr_text": "\"\"",
+    "processing_time": 1.8905458450317383
+  }
+]

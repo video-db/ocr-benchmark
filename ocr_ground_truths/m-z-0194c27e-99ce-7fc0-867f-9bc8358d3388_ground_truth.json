@@ -1,0 +1,514 @@
+[
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 0.0,
+    "end": 1.0,
+    "frame_time": 0.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile Main Thread Render Task",
+    "processing_time": 6.516870021820068
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 1.0,
+    "end": 2.0,
+    "frame_time": 1.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Main Thread Render Task Commit",
+    "processing_time": 8.047116994857788
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 2.0,
+    "end": 3.0,
+    "frame_time": 2.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 619.4492521286011
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 3.0,
+    "end": 4.0,
+    "frame_time": 3.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 4.5753209590911865
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 4.0,
+    "end": 5.0,
+    "frame_time": 4.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 4.334530830383301
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 5.0,
+    "end": 6.0,
+    "frame_time": 5.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 3.7245969772338867
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 6.0,
+    "end": 7.0,
+    "frame_time": 6.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 4.5257649421691895
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 7.0,
+    "end": 8.0,
+    "frame_time": 7.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 4.813462972640991
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 8.0,
+    "end": 9.0,
+    "frame_time": 8.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 4.351946830749512
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 9.0,
+    "end": 10.0,
+    "frame_time": 9.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 4.309381008148193
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 10.0,
+    "end": 11.0,
+    "frame_time": 10.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 4.155714273452759
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 11.0,
+    "end": 12.0,
+    "frame_time": 11.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 4.603096008300781
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 12.0,
+    "end": 13.0,
+    "frame_time": 12.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 3.8640480041503906
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 13.0,
+    "end": 14.0,
+    "frame_time": 13.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 4.853917837142944
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 14.0,
+    "end": 15.0,
+    "frame_time": 14.0,
+    "ocr_text": "setUrgentState(urgentData); Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM  Main Thread Render Task Commit",
+    "processing_time": 4.381659984588623
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 15.0,
+    "end": 16.0,
+    "frame_time": 15.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit",
+    "processing_time": 4.286480188369751
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 16.0,
+    "end": 17.0,
+    "frame_time": 16.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit User interaction",
+    "processing_time": 4.25079083442688
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 17.0,
+    "end": 18.0,
+    "frame_time": 17.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction",
+    "processing_time": 4.432786226272583
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 18.0,
+    "end": 19.0,
+    "frame_time": 18.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 5.107274055480957
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 19.0,
+    "end": 20.0,
+    "frame_time": 19.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 4.288100719451904
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 20.0,
+    "end": 21.0,
+    "frame_time": 20.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 3.9369170665740967
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 21.0,
+    "end": 22.0,
+    "frame_time": 21.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 4.575118780136108
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 22.0,
+    "end": 23.0,
+    "frame_time": 22.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 4.828524827957153
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 23.0,
+    "end": 24.0,
+    "frame_time": 23.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 3.775559902191162
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 24.0,
+    "end": 25.0,
+    "frame_time": 24.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 3.9974300861358643
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 25.0,
+    "end": 26.0,
+    "frame_time": 25.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 4.5299623012542725
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 26.0,
+    "end": 27.0,
+    "frame_time": 26.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 3.898068904876709
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 27.0,
+    "end": 28.0,
+    "frame_time": 27.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 4.8693389892578125
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 28.0,
+    "end": 29.0,
+    "frame_time": 28.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 4.37294602394104
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 29.0,
+    "end": 30.0,
+    "frame_time": 29.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 4.366031169891357
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 30.0,
+    "end": 31.0,
+    "frame_time": 30.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 4.93159294128418
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 31.0,
+    "end": 32.0,
+    "frame_time": 31.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 4.612229824066162
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 32.0,
+    "end": 33.0,
+    "frame_time": 32.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 4.1639251708984375
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 33.0,
+    "end": 34.0,
+    "frame_time": 33.0,
+    "ocr_text": "Traditional Render Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Render Task Commit Task Task User interaction Visual Feedback",
+    "processing_time": 4.530113220214844
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 34.0,
+    "end": 35.0,
+    "frame_time": 34.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Main Thread",
+    "processing_time": 4.741935968399048
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 35.0,
+    "end": 36.0,
+    "frame_time": 35.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update Main Thread",
+    "processing_time": 4.97372579574585
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 36.0,
+    "end": 37.0,
+    "frame_time": 36.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Main Thread",
+    "processing_time": 4.768312215805054
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 37.0,
+    "end": 38.0,
+    "frame_time": 37.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Main Thread",
+    "processing_time": 4.425459861755371
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 38.0,
+    "end": 39.0,
+    "frame_time": 38.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Main Thread idle",
+    "processing_time": 4.6210010051727295
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 39.0,
+    "end": 40.0,
+    "frame_time": 39.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread idle Commit",
+    "processing_time": 4.8600239753723145
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 40.0,
+    "end": 41.0,
+    "frame_time": 40.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread idle Commit",
+    "processing_time": 4.812119960784912
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 41.0,
+    "end": 42.0,
+    "frame_time": 41.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update New VDOM Reconcile Commit Updated DOM Main Thread idle Commit",
+    "processing_time": 4.709770917892456
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 42.0,
+    "end": 43.0,
+    "frame_time": 42.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update New VDOM Reconcile Commit Updated DOM Main Thread idle Commit",
+    "processing_time": 5.495819091796875
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 43.0,
+    "end": 44.0,
+    "frame_time": 43.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update New VDOM Reconcile Commit Updated DOM Main Thread idle Commit",
+    "processing_time": 4.578963994979858
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 44.0,
+    "end": 45.0,
+    "frame_time": 44.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update New VDOM Reconcile Commit Updated DOM Main Thread idle Commit",
+    "processing_time": 4.48651123046875
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 45.0,
+    "end": 46.0,
+    "frame_time": 45.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update New VDOM Reconcile Commit Updated DOM Main Thread idle Commit",
+    "processing_time": 4.601647138595581
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 46.0,
+    "end": 47.0,
+    "frame_time": 46.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update New VDOM Reconcile Commit Updated DOM Main Thread idle Commit",
+    "processing_time": 4.4114580154418945
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 47.0,
+    "end": 48.0,
+    "frame_time": 47.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update New VDOM Reconcile Commit Updated DOM Main Thread idle Commit",
+    "processing_time": 4.64440393447876
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 48.0,
+    "end": 49.0,
+    "frame_time": 48.0,
+    "ocr_text": "startTransition(() => { setNonUrgentState(nonUrgentData); }); Transition Current VDOM Updated VDOM based on state update New VDOM Reconcile Commit Updated DOM Main Thread idle Commit",
+    "processing_time": 4.237421989440918
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 49.0,
+    "end": 50.0,
+    "frame_time": 49.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread idle Commit",
+    "processing_time": 5.701627016067505
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 50.0,
+    "end": 51.0,
+    "frame_time": 50.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread Task idle Commit User interaction",
+    "processing_time": 3.6699650287628174
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 51.0,
+    "end": 52.0,
+    "frame_time": 51.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread  Task Task idle Commit User interaction Visual Feedback",
+    "processing_time": 4.606442928314209
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 52.0,
+    "end": 53.0,
+    "frame_time": 52.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread  Task Task idle Commit User interaction Visual Feedback",
+    "processing_time": 4.577637195587158
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 53.0,
+    "end": 54.0,
+    "frame_time": 53.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread  Task Task idle Commit User interaction Visual Feedback",
+    "processing_time": 4.420174837112427
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 54.0,
+    "end": 55.0,
+    "frame_time": 54.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread  Task Task idle Commit User interaction Visual Feedback",
+    "processing_time": 4.583034038543701
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 55.0,
+    "end": 56.0,
+    "frame_time": 55.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread  Task Task idle Commit User interaction Visual Feedback",
+    "processing_time": 5.269506931304932
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 56.0,
+    "end": 57.0,
+    "frame_time": 56.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread  Task Task idle Commit User interaction Visual Feedback",
+    "processing_time": 4.621973752975464
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 57.0,
+    "end": 58.0,
+    "frame_time": 57.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread  Task Task idle Commit User interaction Visual Feedback",
+    "processing_time": 4.345321893692017
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 58.0,
+    "end": 59.0,
+    "frame_time": 58.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread  Task Task idle Commit User interaction Visual Feedback",
+    "processing_time": 4.600985050201416
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 59.0,
+    "end": 60.0,
+    "frame_time": 59.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread  Task Task idle Commit User interaction Visual Feedback",
+    "processing_time": 4.390736818313599
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 60.0,
+    "end": 61.0,
+    "frame_time": 60.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread  Task Task idle Commit User interaction Visual Feedback",
+    "processing_time": 4.6899309158325195
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 61.0,
+    "end": 62.0,
+    "frame_time": 61.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread  Task Task idle Commit User interaction Visual Feedback",
+    "processing_time": 4.031142950057983
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 62.0,
+    "end": 63.0,
+    "frame_time": 62.0,
+    "ocr_text": "Transition Current VDOM Updated VDOM based on state update Reconcile New VDOM Commit Updated DOM Main Thread  Task Task idle Commit User interaction Visual Feedback",
+    "processing_time": 4.443542003631592
+  },
+  {
+    "video_id": "m-z-0194c27e-99ce-7fc0-867f-9bc8358d3388",
+    "start": 63.0,
+    "end": 63.7,
+    "frame_time": 63.0,
+    "ocr_text": "\"\"",
+    "processing_time": 1.8528249263763428
+  }
+]

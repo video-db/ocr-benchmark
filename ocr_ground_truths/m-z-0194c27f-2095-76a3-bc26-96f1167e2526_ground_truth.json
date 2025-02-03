@@ -1,0 +1,274 @@
+[
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 0.0,
+    "end": 1.001,
+    "frame_time": 0.0,
+    "ocr_text": "MyFootage.com 00 00 12 16 01:11:55",
+    "processing_time": 3.4246280193328857
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 1.001,
+    "end": 2.002,
+    "frame_time": 1.001,
+    "ocr_text": "MyFootage.com WALK 00 00 12 16 01:11:56",
+    "processing_time": 3.8193981647491455
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 2.002,
+    "end": 3.003,
+    "frame_time": 2.002,
+    "ocr_text": "MyFootage.com DONT WALK 00 00 12 16 01:11:57",
+    "processing_time": 3.6452789306640625
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 3.003,
+    "end": 4.004,
+    "frame_time": 3.003,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:11:58",
+    "processing_time": 3.900153160095215
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 4.004,
+    "end": 5.005,
+    "frame_time": 4.004,
+    "ocr_text": "MyFootage.com DONT WALK 00 00 12 16 01:11:59",
+    "processing_time": 4.832265138626099
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 5.005,
+    "end": 6.006,
+    "frame_time": 5.005,
+    "ocr_text": "MyFootage.com DONT WALK 00 00 12 16 01:12:00",
+    "processing_time": 3.6909658908843994
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 6.006,
+    "end": 7.007,
+    "frame_time": 6.006,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:01",
+    "processing_time": 4.524514198303223
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 7.007,
+    "end": 8.008,
+    "frame_time": 7.007,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:02",
+    "processing_time": 4.269505977630615
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 8.008,
+    "end": 9.009,
+    "frame_time": 8.008,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:03",
+    "processing_time": 3.638244867324829
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 9.009,
+    "end": 10.01,
+    "frame_time": 9.009,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:04",
+    "processing_time": 4.512067079544067
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 10.01,
+    "end": 11.011,
+    "frame_time": 10.01,
+    "ocr_text": "MyFootage.com 00 00 12 16 01:12:05",
+    "processing_time": 4.001047134399414
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 11.011,
+    "end": 12.012,
+    "frame_time": 11.011,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:06",
+    "processing_time": 4.201702356338501
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 12.012,
+    "end": 13.013,
+    "frame_time": 12.012,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:07",
+    "processing_time": 3.9100277423858643
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 13.013,
+    "end": 14.014,
+    "frame_time": 13.013,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:08",
+    "processing_time": 3.8698179721832275
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 14.014,
+    "end": 15.015,
+    "frame_time": 14.014,
+    "ocr_text": "MyFootage.com DONT WALK 00 00 12 16 01:12:09",
+    "processing_time": 4.510550022125244
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 15.015,
+    "end": 16.016,
+    "frame_time": 15.015,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:10",
+    "processing_time": 3.9223618507385254
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 16.016,
+    "end": 17.017,
+    "frame_time": 16.016,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:11",
+    "processing_time": 4.076873779296875
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 17.017,
+    "end": 18.018,
+    "frame_time": 17.017,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:12",
+    "processing_time": 5.6134033203125
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 18.018,
+    "end": 19.019,
+    "frame_time": 18.018,
+    "ocr_text": "MyFootage.com DONT WALK 00 00 12 16 01:12:13",
+    "processing_time": 3.9926857948303223
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 19.019,
+    "end": 20.02,
+    "frame_time": 19.019,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:14",
+    "processing_time": 3.8263518810272217
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 20.02,
+    "end": 21.021,
+    "frame_time": 20.02,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:15",
+    "processing_time": 3.579306125640869
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 21.021,
+    "end": 22.022,
+    "frame_time": 21.021,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:16",
+    "processing_time": 3.499535083770752
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 22.022,
+    "end": 23.023,
+    "frame_time": 22.022,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:17",
+    "processing_time": 4.610331058502197
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 23.023,
+    "end": 24.024,
+    "frame_time": 23.023,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:18",
+    "processing_time": 4.274011850357056
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 24.024,
+    "end": 25.025,
+    "frame_time": 24.024,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:19",
+    "processing_time": 4.759373188018799
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 25.025,
+    "end": 26.026,
+    "frame_time": 25.025,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:20",
+    "processing_time": 3.5373809337615967
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 26.026,
+    "end": 27.027,
+    "frame_time": 26.026,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:21",
+    "processing_time": 4.132678031921387
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 27.027,
+    "end": 28.028,
+    "frame_time": 27.027,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:22",
+    "processing_time": 4.4216508865356445
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 28.028,
+    "end": 29.029,
+    "frame_time": 28.028,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:23",
+    "processing_time": 4.09698486328125
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 29.029,
+    "end": 30.03,
+    "frame_time": 29.029,
+    "ocr_text": "MyFootage.com DON'T WALK 00 00 12 16 01:12:24",
+    "processing_time": 4.4080491065979
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 30.03,
+    "end": 31.031,
+    "frame_time": 30.03,
+    "ocr_text": "MyFootage.com WALK 00 00 12 16 01:12:25",
+    "processing_time": 4.0005247592926025
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 31.031,
+    "end": 32.032,
+    "frame_time": 31.031,
+    "ocr_text": "MyFootage.com WALK 00 00 12 16 01:12:26",
+    "processing_time": 4.351351976394653
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 32.032,
+    "end": 33.033,
+    "frame_time": 32.032,
+    "ocr_text": "MyFootage.com DONT WALK 00 00 12 16 01:12:27",
+    "processing_time": 3.8636789321899414
+  },
+  {
+    "video_id": "m-z-0194c27f-2095-76a3-bc26-96f1167e2526",
+    "start": 33.033,
+    "end": 33.166,
+    "frame_time": 33.033,
+    "ocr_text": "MyFootage.com DONT WALK 00 00 12 16 01:12:28",
+    "processing_time": 4.934002161026001
+  }
+]

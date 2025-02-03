@@ -1,0 +1,474 @@
+[
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 0.0,
+    "end": 1.0,
+    "frame_time": 0.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 6.956476926803589
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 1.0,
+    "end": 2.0,
+    "frame_time": 1.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 6.762430191040039
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 2.0,
+    "end": 3.0,
+    "frame_time": 2.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 8.074084043502808
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 3.0,
+    "end": 4.0,
+    "frame_time": 3.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 7.038492918014526
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 4.0,
+    "end": 5.0,
+    "frame_time": 4.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 6.282721042633057
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 5.0,
+    "end": 6.0,
+    "frame_time": 5.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 6.667469263076782
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 6.0,
+    "end": 7.0,
+    "frame_time": 6.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 3.2080609798431396
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 7.0,
+    "end": 8.0,
+    "frame_time": 7.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 7.148656845092773
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 8.0,
+    "end": 9.0,
+    "frame_time": 8.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 7.726631164550781
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 9.0,
+    "end": 10.0,
+    "frame_time": 9.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 5.442068099975586
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 10.0,
+    "end": 11.0,
+    "frame_time": 10.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 6.573558807373047
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 11.0,
+    "end": 12.0,
+    "frame_time": 11.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 6.312306880950928
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 12.0,
+    "end": 13.0,
+    "frame_time": 12.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 7.409770965576172
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 13.0,
+    "end": 14.0,
+    "frame_time": 13.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 3.205704927444458
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 14.0,
+    "end": 15.0,
+    "frame_time": 14.0,
+    "ocr_text": "function BlogPost({ post }) { return ( <div> <title>{post.title}</title> <meta name=\"author\" content={post.author} /> <meta property=\"og:image\" content={post.image} /> <h1>{post.title}</h1> </div> ) } <html> <head> <title>What's new in React 19</title> <meta name=\"author\" content=\"Lydia Hallie\" /> <meta name=\"og:image\" content=\"https://.../img.png\" /> </head> <body> <div> <h1>What's new in React </h1> </div> </body> </html>",
+    "processing_time": 6.791494846343994
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 15.0,
+    "end": 16.0,
+    "frame_time": 15.0,
+    "ocr_text": "function Component() { return ( ... <link rel=\"stylesheet\" href=\"/styles/styles.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"high\" /> ... ) } Improvements Stylesheet support Render stylesheets directly within components",
+    "processing_time": 4.45228910446167
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 16.0,
+    "end": 17.0,
+    "frame_time": 16.0,
+    "ocr_text": "function Component() { return ( ... <link rel=\"stylesheet\" href=\"/styles/styles.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"high\" /> ... ) } Improvements Stylesheet support Render stylesheets directly within components",
+    "processing_time": 5.363793134689331
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 17.0,
+    "end": 18.0,
+    "frame_time": 17.0,
+    "ocr_text": "function Component() { return ( ... <link rel=\"stylesheet\" href=\"/styles/styles.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"high\" /> ... ) } Improvements Stylesheet support Render stylesheets directly within components",
+    "processing_time": 5.285862922668457
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 18.0,
+    "end": 19.0,
+    "frame_time": 18.0,
+    "ocr_text": "function Component() { return ( ... <link rel=\"stylesheet\" href=\"/styles/styles.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"high\" /> ... ) } Improvements Stylesheet support Render stylesheets directly within components",
+    "processing_time": 5.7519543170928955
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 19.0,
+    "end": 20.0,
+    "frame_time": 19.0,
+    "ocr_text": "function Component() { return ( ... <link rel=\"stylesheet\" href=\"/styles/styles.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"high\" /> ... ) } Improvements Stylesheet support Render stylesheets directly within components",
+    "processing_time": 5.250787973403931
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 20.0,
+    "end": 21.0,
+    "frame_time": 20.0,
+    "ocr_text": "function Component() { return ( ... <link rel=\"stylesheet\" href=\"/styles/styles.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"high\" /> ... ) } Improvements Stylesheet support Render stylesheets directly within components",
+    "processing_time": 4.771428108215332
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 21.0,
+    "end": 22.0,
+    "frame_time": 21.0,
+    "ocr_text": "function Component() { return ( ... <link rel=\"stylesheet\" href=\"/styles/styles.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"high\" /> ... ) } Improvements Stylesheet support Render stylesheets directly within components",
+    "processing_time": 6.248620986938477
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 22.0,
+    "end": 23.0,
+    "frame_time": 22.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"default\" /> <article>...</article> </div> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 4.960736989974976
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 23.0,
+    "end": 24.0,
+    "frame_time": 23.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"default\" /> <article>...</article> </div> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 4.665336847305298
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 24.0,
+    "end": 25.0,
+    "frame_time": 24.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"default\" /> <article>...</article> </div> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 5.422301769256592
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 25.0,
+    "end": 26.0,
+    "frame_time": 25.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"default\" /> <article>...</article> </div> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 5.397342920303345
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 26.0,
+    "end": 27.0,
+    "frame_time": 26.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"default\" /> <article>...</article> </div> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 6.606480121612549
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 27.0,
+    "end": 28.0,
+    "frame_time": 27.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"default\" /> <article>...</article> </div> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 5.842646837234497
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 28.0,
+    "end": 29.0,
+    "frame_time": 28.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"default\" /> <article>...</article> </div> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 5.264496803283691
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 29.0,
+    "end": 30.0,
+    "frame_time": 29.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"default\" /> <article>...</article> </div> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 5.462858438491821
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 30.0,
+    "end": 31.0,
+    "frame_time": 30.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"default\" /> <article>...</article> </div> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 5.654772996902466
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 31.0,
+    "end": 32.0,
+    "frame_time": 31.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"/styles/article.css\" precedence=\"default\" /> <article>...</article> </div> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 5.6777379512786865
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 32.0,
+    "end": 33.0,
+    "frame_time": 32.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 3.102821111679077
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 33.0,
+    "end": 34.0,
+    "frame_time": 33.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 7.795773267745972
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 34.0,
+    "end": 35.0,
+    "frame_time": 34.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 8.097586870193481
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 35.0,
+    "end": 36.0,
+    "frame_time": 35.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 2.9379630088806152
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 36.0,
+    "end": 37.0,
+    "frame_time": 36.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 7.573195695877075
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 37.0,
+    "end": 38.0,
+    "frame_time": 37.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 8.053473949432373
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 38.0,
+    "end": 39.0,
+    "frame_time": 38.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 7.653306007385254
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 39.0,
+    "end": 40.0,
+    "frame_time": 39.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 6.018877983093262
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 40.0,
+    "end": 41.0,
+    "frame_time": 40.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 8.167008876800537
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 41.0,
+    "end": 42.0,
+    "frame_time": 41.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 6.815517902374268
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 42.0,
+    "end": 43.0,
+    "frame_time": 42.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 3.237680196762085
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 43.0,
+    "end": 44.0,
+    "frame_time": 43.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 3.2915501594543457
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 44.0,
+    "end": 45.0,
+    "frame_time": 44.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 3.544712781906128
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 45.0,
+    "end": 46.0,
+    "frame_time": 45.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 8.067888021469116
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 46.0,
+    "end": 47.0,
+    "frame_time": 46.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 9.212071180343628
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 47.0,
+    "end": 48.0,
+    "frame_time": 47.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 7.397244215011597
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 48.0,
+    "end": 49.0,
+    "frame_time": 48.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 8.801967859268188
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 49.0,
+    "end": 50.0,
+    "frame_time": 49.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"/styles/button.css\" /> <link rel=\"stylesheet\" href=\"/styles/article.css\" /> <link rel=\"stylesheet\" href=\"/styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html>",
+    "processing_time": 9.773380041122437
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 50.0,
+    "end": 51.0,
+    "frame_time": 50.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"styles/button.css\" /> <link rel=\"stylesheet\" href=\"styles/article.css\" /> <link rel=\"stylesheet\" href=\"styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html> What's new in React 19? <Suspense> Loading...",
+    "processing_time": 9.471609115600586
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 51.0,
+    "end": 52.0,
+    "frame_time": 51.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"styles/button.css\" /> <link rel=\"stylesheet\" href=\"styles/article.css\" /> <link rel=\"stylesheet\" href=\"styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html> What's new in React 19? <Suspense> Loading...",
+    "processing_time": 10.35161018371582
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 52.0,
+    "end": 53.0,
+    "frame_time": 52.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"styles/button.css\" /> <link rel=\"stylesheet\" href=\"styles/article.css\" /> <link rel=\"stylesheet\" href=\"styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html> What's new in React 19? <Suspense> Loading...",
+    "processing_time": 8.965327262878418
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 53.0,
+    "end": 54.0,
+    "frame_time": 53.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"styles/button.css\" /> <link rel=\"stylesheet\" href=\"styles/article.css\" /> <link rel=\"stylesheet\" href=\"styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html> What's new in React 19? <Suspense> Loading...",
+    "processing_time": 9.718560934066772
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 54.0,
+    "end": 55.0,
+    "frame_time": 54.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"styles/button.css\" /> <link rel=\"stylesheet\" href=\"styles/article.css\" /> <link rel=\"stylesheet\" href=\"styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html> What's new in React 19? <Suspense> Loading...",
+    "processing_time": 11.836814880371094
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 55.0,
+    "end": 56.0,
+    "frame_time": 55.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"styles/button.css\" /> <link rel=\"stylesheet\" href=\"styles/article.css\" /> <link rel=\"stylesheet\" href=\"styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html> What's new in React 19? <Suspense> Loading...",
+    "processing_time": 7.983597040176392
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 56.0,
+    "end": 57.0,
+    "frame_time": 56.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />}> <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"styles/button.css\" /> <link rel=\"stylesheet\" href=\"styles/article.css\" /> <link rel=\"stylesheet\" href=\"styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html> What's new in React 19? <Suspense> Loading...",
+    "processing_time": 8.749982118606567
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 57.0,
+    "end": 58.0,
+    "frame_time": 57.0,
+    "ocr_text": "function Article() { return ( <div> <link rel=\"stylesheet\" href=\"styles/article.css\" precedence=\"default\" /> <article>...</article> <Comments /> </div> ) } function Comments() { return ( <Suspense fallback={<Loading />} <link rel=\"stylesheet\" href=\"/styles/comments.css\" precedence=\"default\" /> <link rel=\"stylesheet\" href=\"/styles/button.css\" precedence=\"high\" /> <ul>...</ul> </Suspense> ) } <html> <head> <link rel=\"stylesheet\" href=\"styles/button.css\" /> <link rel=\"stylesheet\" href=\"styles/article.css\" /> <link rel=\"stylesheet\" href=\"styles/comments.css\" /> </head> <body> <div> <article>...</article> </div> </body> </html> What's new in React 19?",
+    "processing_time": 8.832831859588623
+  },
+  {
+    "video_id": "m-z-0194c272-dd5c-7a62-8d86-a47e3c4e4670",
+    "start": 58.0,
+    "end": 58.067,
+    "frame_time": 58.0,
+    "ocr_text": "\"\"",
+    "processing_time": 2.511874198913574
+  }
+]

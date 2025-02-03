@@ -1,0 +1,24 @@
+[project]
+name = "ocr-benchmark"
+version = "0.1.0"
+description = "VLMs Benchmarking on OCR"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic==0.45.2",
+    "easyocr==1.7.2",
+    "google-generativeai==0.8.4",
+    "grpcio==1.60.1",
+    "imageio==2.37.0",
+    "load-dotenv>=0.1.0",
+    "numpy==2.2.2",
+    "onnxruntime==1.20.1",
+    "openai==1.60.2",
+    "opencv-python-headless==4.11.0.86",
+    "opencv-python==4.11.0.86",
+    "pillow==11.1.0",
+    "python-levenshtein==0.26.1",
+    "pyyaml==6.0.2",
+    "rapidocr-onnxruntime==1.4.4",
+    "videodb==0.2.8",
+]
