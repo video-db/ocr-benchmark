@@ -10,9 +10,9 @@ This repository contains a benchmarking framework for evaluating OCR (Optical Ch
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Running OCR Benchmark](#running-ocr-benchmark)
-- [Data Set](#data-set)
+- [Dataset](#dataset)
 - [Results](#results)
-- [Preparing Your Own Ground Truth](#preparing-ground-truth)
+- [Preparing Your Own Ground Truth](#preparing-your-own-ground-truth)
 
 ## Overview
 
