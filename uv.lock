@@ -814,7 +814,7 @@ requires-dist = [
     { name = "python-levenshtein", specifier = "==0.26.1" },
     { name = "pyyaml", specifier = "==6.0.2" },
     { name = "rapidocr-onnxruntime", specifier = "==1.4.4" },
-    { name = "videodb", specifier = "==0.2.8" },
+    { name = "videodb", specifier = "==0.2.10" },
 ]
 
 [[package]]
@@ -1499,7 +1499,5 @@ dependencies = [
     { name = "requests" },
     { name = "tqdm" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/a4/7d/9138dd6d3e1a504ce2055a3ada8af26b2f965510b4c5db085741b848bf7c/videodb-0.2.8.tar.gz", hash = "sha256:640216634cf3e747e968f2b3d309cb6713161cfbbd2d84cff81f2a9c813f6124", size = 25276 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/ed/96/38a5757de88df3d6844311008bc0b7fa2cbe191bda06ecf555e052e7dfc0/videodb-0.2.8-py3-none-any.whl", hash = "sha256:1a90f9022cd8de71467ee53a06494de9ff679f3d7e599e2fd987b26e7148e0b2", size = 26897 },
-]
+
+sdist = { url = "https://files.pythonhosted.org/packages/8b/2d/629b5558f70f306d4c9086f938b20681f5238d52bbe29d8ad45b980dbf38/videodb-0.2.10.tar.gz", hash = "sha256:4175dc23fd0d02b5c5a448b0f1edfe8e1ab139f5082c9f9ba00dbceea1d41f60", size = 25354 }

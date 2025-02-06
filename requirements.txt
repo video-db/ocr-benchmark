@@ -11,6 +11,6 @@ pillow==11.1.0
 python-Levenshtein==0.26.1
 PyYAML==6.0.2
 rapidocr-onnxruntime==1.4.4
-videodb==0.2.8
+videodb==0.2.10
 grpcio==1.60.1
 python-dotenv==1.0.1
