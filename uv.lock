@@ -1492,7 +1492,7 @@ wheels = [
 
 [[package]]
 name = "videodb"
-version = "0.2.8"
+version = "0.2.10"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "backoff" },
