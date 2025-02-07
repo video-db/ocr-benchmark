@@ -145,10 +145,10 @@ evaluation_summary/
 
 - **Evaluation Files:**  
   In the `evaluations` subfolder, JSON files (e.g., `m-z-0194c270-bbfb-7dd2-aaec-62d909b97b32.json`) contain quantitative metrics calculated by comparing the model's OCR output against the ground truth. These metrics include:
-  - **Character Error Rate (CER)**
-  - **Word Error Rate (WER)**
-  - **Accuracy**
-  - **Order-Agnostic Accuracy**
+  - Character Error Rate (CER)
+  - Word Error Rate (WER)
+  - Accuracy
+  - Order-Agnostic Accuracy
 
 - **Log Files:**  
   The `logfile.log` file records detailed processing information, including timestamps and status messages, which are useful for debugging and verifying that each run executed as expected.
