@@ -32,7 +32,7 @@ Our comprehensive evaluation shows that Vision-Language Models (VLMs) significan
 |-------|---------------------------|----------------------|-------------------|
 | RapidOCR | 0.4302 | 0.7620 | 56.98 (↓19.24) |
 | EasyOCR | 0.5070 | 0.8262 | 49.30 (↓26.92) |
-| Claude-3 Sonnet | 0.3229 | 0.4663 | 67.71 (↓8.51) |
+| Claude-3.5 Sonnet | 0.3229 | 0.4663 | 67.71 (↓8.51) |
 | Gemini-1.5 Pro | 0.2387 | 0.2385 | 76.13 (↓0.09) |
 | GPT-4o | 0.2378 | 0.5117 | 76.22 |
 
