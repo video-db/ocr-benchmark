@@ -138,7 +138,7 @@ def main(args):
             gt_file = os.path.join(
                 config.OCR_GROUND_TRUTH_DIR, f"{video.id}_ground_truth.json"
             )
-            with open(gt_file, "r") as file:
+            with open(gt_file, "r", encoding='utf-8') as file:
                 video_ground_truth = json.load(file)
 
             video_result = processor.evaluate(outputs, video_ground_truth)
