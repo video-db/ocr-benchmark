@@ -1,11 +1,12 @@
 # Benchmarking Vision-Language Models on Optical Character Recognition in Dynamic Video Environments
 
-This repository contains a benchmarking framework for evaluating OCR (Optical Character Recognition) performance using multiple vision-language models (VLMs) and OCR engines. The framework is designed to work with a VideoDB collections and supports several models including OpenAI, Google Gemini, Anthropic Claude, Moondream, EasyOCR, and RapidOCR.
+This repository contains a benchmarking framework for evaluating OCR (Optical Character Recognition) performance using multiple vision-language models (VLMs) and OCR engines. The framework is designed to work with [VideoDB public collections](https://docs.videodb.io/public-collections-102) and supports several models including OpenAI, Google Gemini, Anthropic Claude, Moondream, EasyOCR, and RapidOCR.
 
-<!-- TODO: Link paper-->
+For detailed methodology and analysis, please refer to our paper: [Benchmarking Vision-Language Models on Optical Character Recognition in Dynamic Video Environments](https://arxiv.org/abs/2502.06445)
 
 ## Table of Contents
 - [Overview](#overview)
+- [Benchmark Results](#benchmark-results)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
@@ -22,6 +23,19 @@ This project benchmarks OCR performance across different models by:
 - Comparing OCR outputs against ground truth to compute error metrics such as Character Error Rate (CER) and Word Error Rate (WER).
 
 The modular design allows you to easily extend the framework by adding new models or other vision tasks.
+
+### Benchmark Results
+
+Our comprehensive evaluation shows that Vision-Language Models (VLMs) significantly outperform traditional OCR systems:
+
+| Model | Character Error Rate (CER) | Word Error Rate (WER) | Average Accuracy (%) |
+|-------|---------------------------|----------------------|-------------------|
+| RapidOCR | 0.4302 | 0.7620 | 56.98 (↓19.24) |
+| EasyOCR | 0.5070 | 0.8262 | 49.30 (↓26.92) |
+| Claude-3 Sonnet | 0.3229 | 0.4663 | 67.71 (↓8.51) |
+| Gemini-1.5 Pro | 0.2387 | 0.2385 | 76.13 (↓0.09) |
+| GPT-4o | 0.2378 | 0.5117 | 76.22 |
+
 
 ## Installation 
 
@@ -79,7 +93,7 @@ python run.py --model benchmark
 
 ## Dataset
 
-The dataset is based on VideoDB's public collection. This public collection provides open access to a curated set of videos along with their pre-defined scene indexes. Anyone with the VideoDB ID can access these videos and read their corresponding indexes. This feature facilitates easy benchmarking and reproducibility.
+The dataset is based on [VideoDB's public collection](https://docs.videodb.io/public-collections-102). This public collection provides open access to a curated set of videos along with their pre-defined scene indexes. Anyone with the VideoDB ID can access these videos and read their corresponding indexes. This feature facilitates easy benchmarking and reproducibility.
 
 Here are the videos of VideoDB's OCR Benchmark Public Collection (`c-c0a2c223-e377-4625-94bf-910501c2a31c`)
 
@@ -178,7 +192,7 @@ This structure allows you to systematically access and evaluate the OCR outputs 
 ```bash
 uv run ground_truth_preparation/create_videodb_collection.py
 ```
-This script will prompt for collection details and allow you to upload videos either from files or by specifying a JSON file containing video URLs.
+This script will prompt for collection details and allow you to upload videos either from files or by specifying a JSON file containing video URLs. The collection will be created as a [VideoDB public collection](https://docs.videodb.io/public-collections-102) for easy sharing and reproducibility.
 
 ```bash
 uv run ground_truth_preparation/prepare_ground_truth.py
